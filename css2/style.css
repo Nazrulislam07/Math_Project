@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;	
+}
+
+
+header{
+	background-color:#f7efef;
+	height:100vh;
+	background-size:cover;
+	background-position: center;
+	
+}
+
+ul{
+	font-size:35px;
+	float:right;
+	list-style-type:none;
+	
+	
+}
+
+ul li{
+	display:inline-block;
+	
+}
+ 
+
+
+ul li a{
+	
+	text-decoration:none;
+	color:red;
+	padding:1px 20px;
+	border:solid green;
+	
+}
+
+ul li a:hover{
+	background-color:#fff;
+	color:#000; 
+}
+
+
+.style{
+	
+	background:#8c5d5d;
+	color:black;
+	font-size:30px;	
+	text-align:center;
+	margin-bottom: 20px;
+}
+
+h2{
+	font-size:40px;
+	color:#137f2e;
+	margin-bottom: 100px;
+}
